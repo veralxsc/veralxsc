@@ -60,7 +60,6 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 | Rational Unified Process v7.0 | ✅ |
 | BSTQB/ISTQB CTAL-TAE | 🔄 Em preparação |
 | BSTQB/ISTQB CTAL-TM | 🔄 Em preparação |
-
 | Inglês | 🔄 Em estudo |
 
 ---
