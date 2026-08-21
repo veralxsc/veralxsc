@@ -59,6 +59,8 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 | Scrum Master I (PSM I) | ✅ |
 | Rational Unified Process v7.0 | ✅ |
 | BSTQB/ISTQB CTAL-TAE | 🔄 Em preparação |
+| BSTQB/ISTQB CTAL-TM | 🔄 Em preparação |
+
 | Inglês | 🔄 Em estudo |
 
 ---
