@@ -2,7 +2,7 @@
 
 **Especialista em Qualidade de Software | Test Management | Governança de Testes**
 
-Especialista em Qualidade de Software com mais de 24 anos de experiência liderando estratégias de qualidade, governança de testes, métricas e confiabilidade de sistemas críticos em grandes organizações dos setores público, bancário e privado.
+Especialista em Qualidade de Software com mais de 25 anos de experiência liderando estratégias de qualidade, governança de testes, métricas e confiabilidade de sistemas críticos em grandes organizações dos setores público, bancário e privado.
 
 Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratégica na definição
 
@@ -14,6 +14,8 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 **Formação**
 - Mestre em Qualidade — Universidade de Brasília (UnB)
 - Bacharelada em Ciência da Computação — Universidade Católica de Goiás
+- Masterclass QAzando – Automação de Testes em Qualidade de Software QAzando 
+
 
 🎯 Foco atual em inglês, reforçando comunicação técnica e atuação em contextos internacionais e CTAL-TAE
 
@@ -27,6 +29,7 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 ![Redmine](https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
 ![IBM RQM](https://img.shields.io/badge/IBM%20RQM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
+
 ### Automação web
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -37,6 +40,8 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Maestro](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ### API, performance & carga
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -58,8 +63,10 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 | Cyber Security Foundation | ✅ |
 | Scrum Master I (PSM I) | ✅ |
 | Rational Unified Process v7.0 | ✅ |
+| Object Oriented Analysis and Design | ✅ |
 | BSTQB/ISTQB CTAL-TAE | 🔄 Em preparação |
-| BSTQB/ISTQB CTAL-TM | 🔄 Em preparação |
+| BSTQB/ISTQB CTAL-TM  | 🔄 Em preparação |
+| BSTQB/ISTQB CTAL-TAS | 🔄 Em preparação |
 | Inglês | 🔄 Em estudo |
 
 ---
