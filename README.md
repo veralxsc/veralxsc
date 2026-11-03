@@ -40,7 +40,7 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Maestro](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Maestro&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-3DDC84?style=for-the-badge&logo=Maestro&logoColor=white)
 
 
 ### API, performance & carga
