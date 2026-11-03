@@ -60,11 +60,12 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 | BSTQB/ISTQB CTFL | ✅ |
 | BSTQB/ISTQB CTFL-AT | ✅ |
 | BSTQB/ISTQB CT-GenAI | ✅ |
+| BSTQB/ISTQB CTAL-TAE | ✅ |
 | Cyber Security Foundation | ✅ |
 | Scrum Master I (PSM I) | ✅ |
 | Rational Unified Process v7.0 | ✅ |
 | Object Oriented Analysis and Design | ✅ |
-| BSTQB/ISTQB CTAL-TAE | 🔄 Em preparação |
+| BSTQB/ISTQB CTAL-QDO | 🔄 Em preparação |
 | BSTQB/ISTQB CTAL-TM  | 🔄 Em preparação |
 | BSTQB/ISTQB CTAL-TAS | 🔄 Em preparação |
 | Inglês | 🔄 Em estudo |
