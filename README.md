@@ -17,7 +17,7 @@ Mestre em Qualidade pela Universidade de Brasília(UnB), atuo de forma estratég
 - Masterclass QAzando – Automação de Testes em Qualidade de Software QAzando 
 
 
-🎯 Foco atual em inglês, reforçando comunicação técnica e atuação em contextos internacionais e CTAL-TAE
+🎯 Foco atual em inglês, reforçando comunicação técnica e atuação em contextos internacionais e CTAL-QDO
 
 
 ---
